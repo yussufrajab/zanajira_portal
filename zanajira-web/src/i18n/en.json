@@ -1,0 +1,104 @@
+{
+  "app_name": "ZanAjira Portal",
+  "tagline": "Civil Service Commission — Revolutionary Government of Zanzibar",
+  "nav": {
+    "vacancies": "Vacancies",
+    "my_applications": "My Applications",
+    "change_password": "Change Password",
+    "logout": "Logout",
+    "login": "Login",
+    "register": "Register"
+  },
+  "profile": {
+    "personal": "Personal Details",
+    "contact": "Contact Details",
+    "academic": "Academic Qualifications",
+    "professional": "Professional Qualifications",
+    "language": "Language Proficiency",
+    "experience": "Work Experience",
+    "training": "Training & Workshops",
+    "computer": "Computer Literacy",
+    "referees": "Referees",
+    "attachments": "Other Attachments",
+    "declaration": "Declaration",
+    "cv_preview": "CV Preview",
+    "completion": "Profile Completion"
+  },
+  "vacancy": {
+    "post_title": "Post Title",
+    "num_posts": "Number of Posts",
+    "employer": "Employer",
+    "closing_date": "Closing Date",
+    "more_details": "More Details",
+    "apply": "Apply",
+    "salary_scale": "Salary Scale",
+    "qualifications": "Required Qualifications",
+    "duties": "Duties & Responsibilities"
+  },
+  "status": {
+    "received": "Received",
+    "in_progress": "In Progress",
+    "shortlisted": "Shortlisted",
+    "placed": "Placed",
+    "rejected": "Rejected"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "required": "This field is required",
+    "search": "Search",
+    "no_data": "No data found"
+  },
+  "admin": {
+    "applicants": {
+      "title": "Applicants",
+      "subtitle": "View and manage all applicants",
+      "search_placeholder": "Search applicants...",
+      "no_applicants": "No applicants yet",
+      "no_applicants_desc": "Applicants will appear here when they register."
+    },
+    "staff": {
+      "title": "Staff Management",
+      "subtitle": "Create and manage staff accounts",
+      "no_staff": "No staff members yet",
+      "add_staff": "Add Staff"
+    },
+    "audit_logs": {
+      "title": "Audit Logs",
+      "subtitle": "System activity and change tracking"
+    },
+    "config": {
+      "title": "System Configuration",
+      "subtitle": "Manage application settings",
+      "save": "Save Configuration",
+      "saved": "Configuration saved successfully."
+    },
+    "vacancy_applicants": {
+      "title": "Applicants",
+      "subtitle": "Applicants for this vacancy",
+      "back": "Back to Vacancies"
+    }
+  },
+  "apply": {
+    "profile_incomplete": "Profile Incomplete",
+    "profile_incomplete_desc": "Your profile is {{pct}}% complete. You need at least 70% to apply.",
+    "declaration_text": "I hereby confirm that all information provided in my application is true, complete, and accurate. I understand that providing false information may result in disqualification or dismissal.",
+    "submit": "Confirm Application",
+    "submitted": "Application Submitted!",
+    "submitted_desc": "Your application has been received. You can track its status in My Applications."
+  },
+  "change_password": {
+    "title": "Change Password",
+    "old_password": "Current Password",
+    "new_password": "New Password",
+    "confirm_password": "Confirm Password",
+    "success": "Password changed successfully."
+  }
+}

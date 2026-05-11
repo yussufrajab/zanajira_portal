@@ -1,0 +1,10 @@
+DROP TABLE IF EXISTS other_attachments;
+DROP TABLE IF EXISTS referees;
+DROP TABLE IF EXISTS computer_skills;
+DROP TABLE IF EXISTS trainings;
+DROP TABLE IF EXISTS work_experiences;
+DROP TABLE IF EXISTS language_proficiencies;
+DROP TABLE IF EXISTS professional_qualifications;
+DROP TABLE IF EXISTS academic_qualifications;
+DROP TABLE IF EXISTS contact_details;
+DROP TABLE IF EXISTS applicants;

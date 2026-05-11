@@ -1,0 +1,13 @@
+DROP TABLE IF EXISTS system_config;
+DROP TABLE IF EXISTS schemes_of_service;
+DROP TABLE IF EXISTS key_matrices;
+DROP TABLE IF EXISTS permits;
+DROP TABLE IF EXISTS secretariats;
+DROP TABLE IF EXISTS computer_skill_definitions;
+DROP TABLE IF EXISTS professional_institutions;
+DROP TABLE IF EXISTS professional_courses;
+DROP TABLE IF EXISTS academic_subscriptions;
+DROP TABLE IF EXISTS academic_programmes;
+DROP TABLE IF EXISTS academic_institutions;
+DROP TABLE IF EXISTS academic_levels;
+DROP TYPE IF EXISTS permit_status;

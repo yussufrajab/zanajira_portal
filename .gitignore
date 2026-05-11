@@ -1,0 +1,46 @@
+# Go
+zanajira-server/bin/
+zanajira-server/tmp/
+*.exe
+*.test
+*.out
+
+# Node / Frontend
+zanajira-web/node_modules/
+zanajira-web/dist/
+zanajira-web/.vite/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Uploads
+uploads/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
+
+# Editor
+.vscode/
+.idea/
+
+# Claude
+.claude/
+
+# Blackbox
+.blackbox/
+.blackboxcli/
+
+# PM2
+ecosystem.config.js.bak
+
+# Backups
+backups/
+ui/

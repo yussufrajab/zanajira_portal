@@ -1,0 +1,104 @@
+{
+  "app_name": "Mlango wa ZanAjira",
+  "tagline": "Tume ya Utumishi wa Umma — Serikali ya Mapinduzi ya Zanzibar",
+  "nav": {
+    "vacancies": "Nafasi za Kazi",
+    "my_applications": "Maombi Yangu",
+    "change_password": "Badilisha Nywila",
+    "logout": "Toka",
+    "login": "Ingia",
+    "register": "Jisajili"
+  },
+  "profile": {
+    "personal": "Taarifa za Kibinafsi",
+    "contact": "Mawasiliano",
+    "academic": "Elimu",
+    "professional": "Sifa za Kitaaluma",
+    "language": "Ujuzi wa Lugha",
+    "experience": "Uzoefu wa Kazi",
+    "training": "Mafunzo",
+    "computer": "Ujuzi wa Kompyuta",
+    "referees": "Wakubaliano",
+    "attachments": "Viambatisho",
+    "declaration": "Tamko",
+    "cv_preview": "Muhtasari wa CV",
+    "completion": "Ukamilishaji wa Wasifu"
+  },
+  "vacancy": {
+    "post_title": "Jina la Nafasi",
+    "num_posts": "Idadi ya Nafasi",
+    "employer": "Mwajiri",
+    "closing_date": "Tarehe ya Mwisho",
+    "more_details": "Maelezo Zaidi",
+    "apply": "Omba",
+    "salary_scale": "Kiwango cha Mshahara",
+    "qualifications": "Sifa Zinazohitajika",
+    "duties": "Majukumu na Wajibu"
+  },
+  "status": {
+    "received": "Imepokelewa",
+    "in_progress": "Inaendelea",
+    "shortlisted": "Imechaguliwa",
+    "placed": "Imewekwa",
+    "rejected": "Imekataliwa"
+  },
+  "common": {
+    "save": "Hifadhi",
+    "cancel": "Ghairi",
+    "delete": "Futa",
+    "edit": "Hariri",
+    "add": "Ongeza",
+    "submit": "Wasilisha",
+    "loading": "Inapakia...",
+    "error": "Hitilafu imetokea",
+    "success": "Imefanikiwa",
+    "required": "Sehemu hii inahitajika",
+    "search": "Tafuta",
+    "no_data": "Hakuna data"
+  },
+  "admin": {
+    "applicants": {
+      "title": "Waombaji",
+      "subtitle": "Tazama na dhibiti waombaji wote",
+      "search_placeholder": "Tafuta waombaji...",
+      "no_applicants": "Hakuna waombaji bado",
+      "no_applicants_desc": "Waombaji wataonekana hapa wakati wakijisajili."
+    },
+    "staff": {
+      "title": "Usimamizi wa Wafanyakazi",
+      "subtitle": "Unda na dhibiti akaunti za wafanyakazi",
+      "no_staff": "Hakuna wafanyakazi bado",
+      "add_staff": "Ongeza Mfanyakazi"
+    },
+    "audit_logs": {
+      "title": "Logi za Ukaguzi",
+      "subtitle": "Shughuli za mfumo na ufuatiliaji wa mabadiliko"
+    },
+    "config": {
+      "title": "Mipangilio ya Mfumo",
+      "subtitle": "Dhibiti mipangilio ya programu",
+      "save": "Hifadhi Mipangilio",
+      "saved": "Mipangilio imehifadhiwa kikamilifu."
+    },
+    "vacancy_applicants": {
+      "title": "Waombaji",
+      "subtitle": "Waombaji kwa nafasi hii",
+      "back": "Rudi kwenye Nafasi za Kazi"
+    }
+  },
+  "apply": {
+    "profile_incomplete": "Wasifu Haujakamilika",
+    "profile_incomplete_desc": "Wasifu wako ni {{pct}}% kamili. Unahitaji angalau 70% ili kuomba.",
+    "declaration_text": "Ninathibitisha kuwa taarifa zote zilizotolewa kwenye maombi yangu ni za kweli, kamili, na sahihi. Ninaelewa kuwa kutoa taarifa za uongo kunaweza kusababisha kuzuiliwa au kuondolewa kwenye kazi.",
+    "submit": "Thibitisha Maombi",
+    "submitted": "Maombi Yamewasilishwa!",
+    "submitted_desc": "Maombi yako yamepokewa. Unaweza kufuata hali yake kwenye Maombi Yangu."
+  },
+  "change_password": {
+    "title": "Badilisha Nywila",
+    "old_password": "Nywila ya Sasa",
+    "new_password": "Nywila Mpya",
+    "confirm_password": "Thibitisha Nywila",
+    "success": "Nywila imebadilishwa kikamilifu."
+  }
+}
